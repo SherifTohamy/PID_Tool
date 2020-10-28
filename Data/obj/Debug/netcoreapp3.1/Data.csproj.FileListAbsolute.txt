@@ -1,0 +1,12 @@
+D:\Software\PID Tool\SW\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Software\PID Tool\SW\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Software\PID Tool\SW\Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Software\PID Tool\SW\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Software\PID Tool\SW\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Software\PID Tool\SW\Data\obj\Debug\netcoreapp3.1\Data.pdb

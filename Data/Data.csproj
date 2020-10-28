@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201025181707_initial.cs" />
+    <Compile Remove="Migrations\20201025181707_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201025183149_initial.cs" />
+    <Compile Remove="Migrations\20201025183149_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201028103439_initial.cs" />
+    <Compile Remove="Migrations\20201028103439_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201028135711_initial.cs" />
+    <Compile Remove="Migrations\20201028135711_initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>
