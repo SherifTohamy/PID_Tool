@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\sesa550812\\.nuget\\packages\\",
-      "outputPath": "D:\\Software\\PID Tool\\SW\\Domain\\obj\\",
+      "outputPath": "D:\\Software\\Repository\\PID_Tool\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sesa550812\\AppData\\Roaming\\NuGet\\NuGet.Config",
