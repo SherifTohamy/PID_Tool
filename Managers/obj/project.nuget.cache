@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nPN2ZttpGY8FZKHl7lJFMusEUgcc2OzcIWy5LftSPH6MAaS3jL1/w4flQ+MXTnqW5o1j9e7spYy9LIhPsZjnhA==",
+  "dgSpecHash": "2utUrJjeinlU9GzQGrfWj/Od30VljihMDDuaxOvnyzgc2KQ6nsbW9idLzzteRRqUdgA0Aqswdfw761wpUvlmbg==",
   "success": true,
-  "projectFilePath": "D:\\Software\\PID Tool\\SW\\Managers\\Managers.csproj",
+  "projectFilePath": "D:\\Software\\Repository\\PID_Tool\\Managers\\Managers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sesa550812\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sesa550812\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
