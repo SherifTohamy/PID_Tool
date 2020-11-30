@@ -8,6 +8,6 @@ namespace Domain.DTOs
     {
         public string Name { get; set; }
         public string Email { get; set; }
-
+        public bool Enabled { get; set; }
     }
 }

@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace DataHandling
 {
-    public interface IUserOperations : IOperations<User>
+    public interface IUserOperations : IOperations<User,UserDTO>
     {
-        Task<UserDTO> GetBasicEmployeeDataAsync(int id);
+       
     }
 }

@@ -12,17 +12,3 @@ D:\Software\PID Tool\SW\DataFactory\bin\Debug\netcoreapp3.1\Domain.dll
 D:\Software\PID Tool\SW\DataFactory\bin\Debug\netcoreapp3.1\Data.pdb
 D:\Software\PID Tool\SW\DataFactory\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Software\PID Tool\SW\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.csproj.CopyComplete
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\DataHandling.deps.json
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\DataHandling.dll
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\DataHandling.pdb
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\Data.dll
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\Domain.dll
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\Data.pdb
-D:\Software\Repository\PID_Tool\DataFactory\bin\Debug\netcoreapp3.1\Domain.pdb
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.csprojAssemblyReference.cache
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.AssemblyInfoInputs.cache
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.AssemblyInfo.cs
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.csproj.CoreCompileInputs.cache
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.csproj.CopyComplete
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.dll
-D:\Software\Repository\PID_Tool\DataFactory\obj\Debug\netcoreapp3.1\DataHandling.pdb

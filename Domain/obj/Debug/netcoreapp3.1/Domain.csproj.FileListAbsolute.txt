@@ -7,12 +7,3 @@ D:\Software\PID Tool\SW\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
 D:\Software\PID Tool\SW\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\Software\PID Tool\SW\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Software\PID Tool\SW\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
-D:\Software\Repository\PID_Tool\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
-D:\Software\Repository\PID_Tool\Domain\bin\Debug\netcoreapp3.1\Domain.dll
-D:\Software\Repository\PID_Tool\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
-D:\Software\Repository\PID_Tool\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
-D:\Software\Repository\PID_Tool\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
-D:\Software\Repository\PID_Tool\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
-D:\Software\Repository\PID_Tool\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
-D:\Software\Repository\PID_Tool\Domain\obj\Debug\netcoreapp3.1\Domain.dll
-D:\Software\Repository\PID_Tool\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

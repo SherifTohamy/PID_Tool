@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software\\Repository\\PID_Tool\\DataFactory\\DataHandling.csproj": {}
+    "D:\\Software\\PID Tool\\SW\\DataFactory\\DataHandling.csproj": {}
   },
   "projects": {
-    "D:\\Software\\Repository\\PID_Tool\\DataFactory\\DataHandling.csproj": {
+    "D:\\Software\\PID Tool\\SW\\DataFactory\\DataHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software\\Repository\\PID_Tool\\DataFactory\\DataHandling.csproj",
+        "projectUniqueName": "D:\\Software\\PID Tool\\SW\\DataFactory\\DataHandling.csproj",
         "projectName": "DataHandling",
-        "projectPath": "D:\\Software\\Repository\\PID_Tool\\DataFactory\\DataHandling.csproj",
+        "projectPath": "D:\\Software\\PID Tool\\SW\\DataFactory\\DataHandling.csproj",
         "packagesPath": "C:\\Users\\sesa550812\\.nuget\\packages\\",
-        "outputPath": "D:\\Software\\Repository\\PID_Tool\\DataFactory\\obj\\",
+        "outputPath": "D:\\Software\\PID Tool\\SW\\DataFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sesa550812\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Software\\Repository\\PID_Tool\\Data\\Data.csproj": {
-                "projectPath": "D:\\Software\\Repository\\PID_Tool\\Data\\Data.csproj"
+              "D:\\Software\\PID Tool\\SW\\Data\\Data.csproj": {
+                "projectPath": "D:\\Software\\PID Tool\\SW\\Data\\Data.csproj"
               },
-              "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj"
+              "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Software\\Repository\\PID_Tool\\Data\\Data.csproj": {
+    "D:\\Software\\PID Tool\\SW\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software\\Repository\\PID_Tool\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Software\\PID Tool\\SW\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\Software\\Repository\\PID_Tool\\Data\\Data.csproj",
+        "projectPath": "D:\\Software\\PID Tool\\SW\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\sesa550812\\.nuget\\packages\\",
-        "outputPath": "D:\\Software\\Repository\\PID_Tool\\Data\\obj\\",
+        "outputPath": "D:\\Software\\PID Tool\\SW\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sesa550812\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj"
+              "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj": {
+    "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Software\\Repository\\PID_Tool\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Software\\PID Tool\\SW\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sesa550812\\.nuget\\packages\\",
-        "outputPath": "D:\\Software\\Repository\\PID_Tool\\Domain\\obj\\",
+        "outputPath": "D:\\Software\\PID Tool\\SW\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sesa550812\\AppData\\Roaming\\NuGet\\NuGet.Config",
