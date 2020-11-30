@@ -40,8 +40,7 @@ namespace PID_API.Controllers
         }
 
 
-        // POST: api/Users/Login
-        [HttpPost("Login")]
+        
 
         // GET: api/GetAllUsers
         [HttpGet("GetAllUsers")]
@@ -92,11 +91,15 @@ namespace PID_API.Controllers
 
 
 
-/*
-        private bool UserExists(string id)
-        {
-            return _context.Users.Any(e => e.SESANum == id);
-        }*/
+
+
+
+
+        /* 
+               private bool UserExists(string id)
+               {
+                   return _context.Users.Any(e => e.SESANum == id);
+               }*/
 
         /*    public bool IsAuthorized()
         {
@@ -112,7 +115,10 @@ namespace PID_API.Controllers
             return _authOperations.IsValidUser(username, password);
         }*/
 
-        /*public async Task<ActionResult<UserDTO>> LoginUser(UserDTO userDTO)
+        /*
+         POST: api/Users/Login
+         [HttpPost("Login")]
+          public async Task<ActionResult<UserDTO>> LoginUser(UserDTO userDTO)
             {
                 return userDTO;
             }*/
