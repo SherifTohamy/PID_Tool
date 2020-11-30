@@ -14,3 +14,19 @@ D:\Software\PID Tool\SW\Managers\obj\Debug\netcoreapp3.1\Managers.csproj.CoreCom
 D:\Software\PID Tool\SW\Managers\obj\Debug\netcoreapp3.1\Managers.csproj.CopyComplete
 D:\Software\PID Tool\SW\Managers\obj\Debug\netcoreapp3.1\Managers.dll
 D:\Software\PID Tool\SW\Managers\obj\Debug\netcoreapp3.1\Managers.pdb
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Managers.deps.json
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Managers.dll
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Managers.pdb
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Data.dll
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\DataHandling.dll
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\DataHandling.pdb
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Software\Repository\PID_Tool\Managers\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.csprojAssemblyReference.cache
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.AssemblyInfoInputs.cache
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.AssemblyInfo.cs
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.csproj.CoreCompileInputs.cache
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.csproj.CopyComplete
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.dll
+D:\Software\Repository\PID_Tool\Managers\obj\Debug\netcoreapp3.1\Managers.pdb
