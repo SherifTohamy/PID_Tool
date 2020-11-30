@@ -18,5 +18,11 @@ namespace Data
 
         public SWDBContext(DbContextOptions<SWDBContext> options)
             : base(options) { }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>()
+                .HasKey(o => o.SESANum);
+                
+        }
     }
 }

@@ -13,6 +13,16 @@
     <Compile Remove="Migrations\20201028103439_initial.Designer.cs" />
     <Compile Remove="Migrations\20201028135711_initial.cs" />
     <Compile Remove="Migrations\20201028135711_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201028160611_initial.cs" />
+    <Compile Remove="Migrations\20201028160611_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201112083534_initial.cs" />
+    <Compile Remove="Migrations\20201112083534_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201112103950_addingUserMig.cs" />
+    <Compile Remove="Migrations\20201112103950_addingUserMig.Designer.cs" />
+    <Compile Remove="Migrations\20201123143116_addinUsersMig.cs" />
+    <Compile Remove="Migrations\20201123143116_addinUsersMig.Designer.cs" />
+    <Compile Remove="Migrations\20201123143215_addinUsersMig.cs" />
+    <Compile Remove="Migrations\20201123143215_addinUsersMig.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

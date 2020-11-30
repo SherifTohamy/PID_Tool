@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace DataHandling
 {
-  public interface IOperations<T> where T : class
+  public interface IOperations<T, T_DTO> 
+        where T : class,new()
+        where T_DTO : class, new()
     {
         Task<T> AddNew(T Entity);
-        Task<T> Delete(int id);
-        Task<IEnumerable<T>> GetAll();
-        
-        Task<T> Update(int id, T recordToUpdate);
-
+        Task<T> Delete(string id);
+        Task<IEnumerable<T_DTO>> GetAllAsync();
+        Task<T_DTO> GetBasicData(string Id);
+        Task<T> Edit(string id, T recordToUpdate);
     }
 }

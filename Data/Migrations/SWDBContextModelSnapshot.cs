@@ -19,6 +19,28 @@ namespace Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("Domain.Models.ProjectUserRelation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("ProjectIdFK")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("UserSesaFK")
+                        .HasColumnType("nvarchar(10)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProjectIdFK");
+
+                    b.HasIndex("UserSesaFK");
+
+                    b.ToTable("ProjectUserRelation");
+                });
+
             modelBuilder.Entity("Domain.Models.Role", b =>
                 {
                     b.Property<int>("Id")
@@ -94,8 +116,19 @@ namespace Data.Migrations
                         .HasColumnType("nvarchar(10)")
                         .HasMaxLength(10);
 
+                    b.Property<string>("ConfirmPassword")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(100)")
+                        .HasMaxLength(100);
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsEnabled")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -104,7 +137,8 @@ namespace Data.Migrations
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(100)")
+                        .HasMaxLength(100);
 
                     b.HasKey("SESANum");
 
@@ -135,15 +169,23 @@ namespace Data.Migrations
 
             modelBuilder.Entity("PIDDb.Models.Project", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<float>("BudgetHours")
+                        .HasColumnType("real");
+
+                    b.Property<string>("ClosedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Comments")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("EndDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("ProjectName")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("StartDate")
@@ -155,6 +197,17 @@ namespace Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Projects");
+                });
+
+            modelBuilder.Entity("Domain.Models.ProjectUserRelation", b =>
+                {
+                    b.HasOne("PIDDb.Models.Project", "project")
+                        .WithMany("ProjectUserRelations")
+                        .HasForeignKey("ProjectIdFK");
+
+                    b.HasOne("Domain.Models.User", "user")
+                        .WithMany("ProjectUserRelations")
+                        .HasForeignKey("UserSesaFK");
                 });
 
             modelBuilder.Entity("Domain.Models.RoleSubjectRelation", b =>

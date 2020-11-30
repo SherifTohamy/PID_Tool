@@ -5709,11 +5709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software\\Repository\\PID_Tool\\Managers\\Managers.csproj",
+      "projectUniqueName": "D:\\Software\\PID Tool\\SW\\Managers\\Managers.csproj",
       "projectName": "Managers",
-      "projectPath": "D:\\Software\\Repository\\PID_Tool\\Managers\\Managers.csproj",
+      "projectPath": "D:\\Software\\PID Tool\\SW\\Managers\\Managers.csproj",
       "packagesPath": "C:\\Users\\sesa550812\\.nuget\\packages\\",
-      "outputPath": "D:\\Software\\Repository\\PID_Tool\\Managers\\obj\\",
+      "outputPath": "D:\\Software\\PID Tool\\SW\\Managers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sesa550812\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5729,8 +5729,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Software\\Repository\\PID_Tool\\DataFactory\\DataHandling.csproj": {
-              "projectPath": "D:\\Software\\Repository\\PID_Tool\\DataFactory\\DataHandling.csproj"
+            "D:\\Software\\PID Tool\\SW\\DataFactory\\DataHandling.csproj": {
+              "projectPath": "D:\\Software\\PID Tool\\SW\\DataFactory\\DataHandling.csproj"
             }
           }
         }
